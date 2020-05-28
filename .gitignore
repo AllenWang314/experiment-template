@@ -20,6 +20,7 @@
 *.tar
 *.zip
 *.env
+node_modules/
 
 # Logs and databases #
 ######################
