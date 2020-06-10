@@ -18,3 +18,12 @@ The structure of the app consists of a React frontend and a Django backend. The 
 
 The deploy branch of the repo contains the exact project and database I deployed to Heroku to test. The database credentials have already expired so don't too excited;) I used gunicorn and whitenoise. The process involved moving mostly everything into the root directory and making some edits to ```settings.py```.
 
+### Setup
+- Download/clone repo.
+- Create and activate a virtual environment.
+- Install Django and other dependencies with `pip install -r requirements.txt`.
+- Run Django app using `python manage.py runserver`.
+- Install React dependencies with `npm install`. 
+- Run React app with `npm start`.
+- Build React app using `npm run build`.
+
