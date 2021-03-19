@@ -3,7 +3,7 @@ cycler==0.10.0
 Django==3.0.7
 django-cors-headers==3.3.0
 django-rest-framework==0.1.0
-djangorestframework==3.11.0
+djangorestframework==3.11.2
 hmmlearn==0.2.3
 joblib==0.15.1
 kiwisolver==1.2.0
